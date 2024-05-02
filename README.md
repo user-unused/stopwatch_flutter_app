@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+* Download the latest build from [releases](https://github.com/user-unused/stopwatch_flutter_app/releases).
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
